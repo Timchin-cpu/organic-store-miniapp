@@ -4,42 +4,42 @@ export const categories = [
     name: "Fruits",
     icon: "Apple",
     image:
-      "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=200&h=200&fit=crop",
+      "/1.jfif",
   },
   {
     id: 2,
     name: "Fresh",
     icon: "Salad",
     image:
-      "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=200&h=200&fit=crop",
+      "/2.jfif",
   },
   {
     id: 3,
     name: "Snack",
     icon: "Cookie",
     image:
-      "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?w=200&h=200&fit=crop",
+      "/3.jfif",
   },
   {
     id: 4,
     name: "Grocery",
     icon: "ShoppingBag",
     image:
-      "https://images.unsplash.com/photo-1542838132-92c53300491e?w=200&h=200&fit=crop",
+      "/4.jfif",
   },
   {
     id: 5,
     name: "Nuts",
     icon: "Nut",
     image:
-      "https://images.unsplash.com/photo-1608797178974-15b35a64ede9?w=200&h=200&fit=crop",
+      "/5.jfif",
   },
   {
     id: 6,
     name: "Oils",
     icon: "Droplet",
     image:
-      "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=200&h=200&fit=crop",
+      "/6.jfif",
   },
 ];
 
@@ -54,7 +54,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=300&h=300&fit=crop",
+      "/7.jfif",
     featured: true,
     categoryId: 1,
   },
@@ -67,7 +67,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-22%",
     image:
-      "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?w=300&h=300&fit=crop",
+      "/8.jfif",
     featured: false,
     categoryId: 1,
   },
@@ -81,7 +81,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-20%",
     image:
-      "https://images.unsplash.com/photo-1603833665858-e61d17a86224?w=300&h=300&fit=crop",
+      "/9.jfif",
     featured: false,
     categoryId: 1,
   },
@@ -94,7 +94,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-16%",
     image:
-      "https://images.unsplash.com/photo-1582979512210-99b6a53386f9?w=300&h=300&fit=crop",
+      "/10.jfif",
     featured: false,
     categoryId: 1,
   },
@@ -107,7 +107,7 @@ export const products = [
     weight: "500 g",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=300&h=300&fit=crop",
+      "/11.jfif",
     featured: false,
     categoryId: 1,
   },
@@ -120,7 +120,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-25%",
     image:
-      "https://images.unsplash.com/photo-1553279768-865429fa0078?w=300&h=300&fit=crop",
+      "/12.jfif",
     featured: false,
     categoryId: 1,
   },
@@ -135,7 +135,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-20%",
     image:
-      "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=300&h=300&fit=crop",
+      "/13.jfif",
     featured: false,
     categoryId: 2,
   },
@@ -149,7 +149,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-13%",
     image:
-      "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=300&h=300&fit=crop",
+      "/14.jfif",
     featured: false,
     categoryId: 2,
   },
@@ -162,7 +162,7 @@ export const products = [
     weight: "500 g",
     discount: "-22%",
     image:
-      "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1?w=300&h=300&fit=crop",
+      "/15.jfif",
     featured: false,
     categoryId: 2,
   },
@@ -175,7 +175,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-22%",
     image:
-      "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?w=300&h=300&fit=crop",
+      "/16.jfif",
     featured: false,
     categoryId: 2,
   },
@@ -188,7 +188,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?w=300&h=300&fit=crop",
+      "/17.jfif",
     featured: false,
     categoryId: 2,
   },
@@ -201,7 +201,7 @@ export const products = [
     weight: "500 g",
     discount: "-17%",
     image:
-      "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=300&h=300&fit=crop",
+      "/18.jfif",
     featured: false,
     categoryId: 2,
   },
@@ -216,7 +216,7 @@ export const products = [
     weight: "300 g",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1590080874088-eec64895b423?w=300&h=300&fit=crop",
+      "/19.jfif",
     featured: false,
     categoryId: 3,
   },
@@ -229,7 +229,7 @@ export const products = [
     weight: "400 g",
     discount: "-20%",
     image:
-      "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=300&h=300&fit=crop",
+      "/20.jfif",
     featured: false,
     categoryId: 3,
   },
@@ -242,7 +242,7 @@ export const products = [
     weight: "250 g",
     discount: "-24%",
     image:
-      "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=300&h=300&fit=crop",
+      "/21.jfif",
     featured: false,
     categoryId: 3,
   },
@@ -256,7 +256,7 @@ export const products = [
     weight: "500 g",
     discount: "-20%",
     image:
-      "https://images.unsplash.com/photo-1517398823963-c2dc6fc3e837?w=300&h=300&fit=crop",
+      "/22.jfif",
     featured: false,
     categoryId: 3,
   },
@@ -269,7 +269,7 @@ export const products = [
     weight: "300 g",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1578849278619-e73505e9610f?w=300&h=300&fit=crop",
+      "/23.jfif",
     featured: false,
     categoryId: 3,
   },
@@ -285,7 +285,7 @@ export const products = [
     weight: "500 g",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=300&fit=crop",
+      "/24.jfif",
     featured: false,
     categoryId: 4,
   },
@@ -298,7 +298,7 @@ export const products = [
     weight: "500 g",
     discount: "-22%",
     image:
-      "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=300&h=300&fit=crop",
+      "/25.jfif",
     featured: false,
     categoryId: 4,
   },
@@ -311,7 +311,7 @@ export const products = [
     weight: "1 Kg",
     discount: "-20%",
     image:
-      "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=300&h=300&fit=crop",
+      "/26.jfif",
     featured: false,
     categoryId: 4,
   },
@@ -324,7 +324,7 @@ export const products = [
     weight: "500 g",
     discount: "-22%",
     image:
-      "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=300&h=300&fit=crop",
+      "/26.jfif",
     featured: false,
     categoryId: 4,
   },
@@ -339,7 +339,7 @@ export const products = [
     weight: "500 g",
     discount: "-23%",
     image:
-      "https://images.unsplash.com/photo-1508747703725-719777637510?w=300&h=300&fit=crop",
+      "/27.jfif",
     featured: false,
     categoryId: 5,
   },
@@ -353,7 +353,7 @@ export const products = [
     weight: "500 g",
     discount: "-22%",
     image:
-      "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=300&h=300&fit=crop",
+      "/28.jfif",
     featured: false,
     categoryId: 5,
   },
@@ -368,7 +368,7 @@ export const products = [
     weight: "500 ml",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300&h=300&fit=crop",
+      "/29.jfif",
     featured: false,
     categoryId: 6,
   },
@@ -381,7 +381,7 @@ export const products = [
     weight: "500 ml",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=300&h=300&fit=crop",
+      "/30.jfif",
     featured: false,
     categoryId: 6,
   },
@@ -394,7 +394,7 @@ export const products = [
     weight: "500 ml",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=300&h=300&fit=crop",
+      "/31.jfif",
     featured: false,
     categoryId: 6,
   },
@@ -407,7 +407,7 @@ export const products = [
     weight: "250 ml",
     discount: "-21%",
     image:
-      "https://images.unsplash.com/photo-1615485500834-bc10199bc727?w=300&h=300&fit=crop",
+      "/32.jfif",
     featured: false,
     categoryId: 6,
   },
@@ -421,7 +421,7 @@ export const products = [
     weight: "1 L",
     discount: "-22%",
     image:
-      "https://images.unsplash.com/photo-1563865436874-9aef32095fad?w=300&h=300&fit=crop",
+      "/32.jfif",
     featured: false,
     categoryId: 6,
   },
